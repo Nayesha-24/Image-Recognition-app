@@ -1,0 +1,21 @@
+#result_object_name, #accuracy_object , .name_of_objects{
+
+    color: coral;
+
+}
+
+#camera{
+    height: 300px;
+    width: 310px;
+    border: 2px dashed crimson ;
+
+}
+
+.heading{
+    width: 80%;
+    font-size: 20px;
+}
+
+body{
+    background-color: cornflowerblue;
+}
